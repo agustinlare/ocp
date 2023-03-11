@@ -62,7 +62,7 @@ cp /mnt/c/Users/user/.kube/occonfig ~/.kube/
 ```
 
 
-## Bash scritp 
+## Bash script 
 ```
 declare -r newuser="alternative"
 
