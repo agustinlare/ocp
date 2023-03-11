@@ -1,4 +1,4 @@
-# Openshift cluster automatic login
+# Openshift multiple login
 
 ## How to install
 Golang 1.11 + packages  script
